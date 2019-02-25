@@ -89,4 +89,4 @@ In addition to that, most IDEs have a Git plugin already installed (eg. Eclipse,
 
 Thanks for reading. 
 
-*See you later !*
+*See you !*
